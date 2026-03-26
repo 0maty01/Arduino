@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 byte LED1 = 2;
 byte LED2 = 3;
 byte LED3 = 4;

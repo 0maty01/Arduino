@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 byte tlacitkoPin = 5;  //nastaveni tlačitka jako čtení byte
 byte tlacitkoPin2 = 6; 
 bool hodnotaTl;  //proměná 
