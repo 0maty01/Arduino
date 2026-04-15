@@ -1,5 +1,6 @@
 // funkčńi T křižovatka budějovická bez přechodu 
 
+#include <Arduino.h>
 
 const int s1_rovne_cervena = 2;
 const int s1_rovne_zluta = 3;
